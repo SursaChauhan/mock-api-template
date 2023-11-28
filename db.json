@@ -1,0 +1,420 @@
+{
+    "tyres" :[
+        {
+          "id": 1,
+          "name": "Car Floor Mats",
+          "category": "Interior",
+          "brand": "FloorGuard",
+          "price": 299,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/1328688809/display_1500/stock-photo-car-d-handmade-floor-mats-of-red-color-from-wool-for-front-and-rear-passengers-of-a-vehicle-in-an-1328688809.jpg",
+            "https://d2zl5tj7gmc4tr.cloudfront.net/images/products/m-cm-5-4305_20210521090534.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/1337922536/display_1500/stock-photo-red-carpet-and-floor-mats-in-the-luxury-car-with-aluminium-pedals-also-1337922536.jpg"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Tie Rod Ends",
+          "category": "Steering System",
+          "brand": "TieMaster",
+          "price": 1086,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/tie-rod-end-on-white-260nw-1408394618.jpg",
+            "https://www.shutterstock.com/image-photo/tie-rod-end-isolated-on-260nw-2300274527.jpg",
+            "https://www.shutterstock.com/image-photo/image-tie-rod-end-260nw-111938135.jpg"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Spark Plug",
+          "category": "Ignition System",
+          "brand": "Sham Motors",
+          "price": 459,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/old-spark-plugs-260nw-169484921.jpg",
+            "https://www.shutterstock.com/image-photo/spark-plug-replacement-close-old-260nw-2010026996.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/1635506170/display_1500/stock-photo-spark-plugs-on-a-white-background-d-illustration-1635506170.jpg"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Brake Disc",
+          "category": "Braking System",
+          "brand": "AutoTech",
+          "price": 4999,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/car-brake-disc-red-caliper-260nw-1027595830.jpg",
+            "https://www.shutterstock.com/image-photo/disc-brake-isolated-on-white-260nw-1051231913.jpg",
+            "https://www.shutterstock.com/image-vector/car-brakes-disc-universal-shoe-260nw-2303714353.jpg"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Ball Joints",
+          "category": "Suspension System",
+          "brand": "BallTech",
+          "price": 1699,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/1415162882/display_1500/stock-photo--ball-joints-linkage-rod-of-motorcycle-gear-two-ball-joint-style-fittings-1415162882.jpg",
+            "https://www.shutterstock.com/image-photo/image-ball-joints-260nw-1495654394.jpg",
+            "https://www.shutterstock.com/image-photo/new-spare-part-ball-joint-260nw-1662986557.jpg"
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Oil Filter",
+          "category": "Engine",
+          "brand": "BestParts",
+          "price": 549,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-illustration/oil-filter-car-done-3d-260nw-227826991.jpg",
+            "https://www.shutterstock.com/image-illustration/car-oil-filter-isolated-on-260nw-1177121017.jpg",
+            "https://www.shutterstock.com/image-illustration/three-oil-filter-3d-illustration-260nw-687220726.jpg"
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Tire Pressure Gauge",
+          "category": "Tire Maintenance",
+          "brand": "GaugeMaster",
+          "price": 489,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/531381970/display_1500/stock-photo-closeup-tire-pressure-gauge-isolated-on-white-background-531381970.jpg",
+            "https://www.shutterstock.com/image-photo/top-view-tire-pressure-gauge-260nw-1978875548.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/1227524737/display_1500/stock-photo-tire-pressure-gauge-1227524737.jpg"
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Air Filter",
+          "category": "Engine",
+          "brand": "AirFlow",
+          "price": 799,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/air-filter-regulator-tools-your-260nw-2272740539.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/2266057699/display_1500/stock-photo-industrial-air-filter-with-taps-and-pressure-gauge-d-illustration-orthography-or-isometric-d-2266057699.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/1034499160/display_1500/stock-photo-regulator-pressure-valve-air-gauge-1034499160.jpg"
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Shock Absorber",
+          "category": "Suspension System",
+          "brand": "SmoothRide",
+          "price": 549,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-vector/shock-absorber-vector-260nw-1307853304.jpg",
+            "https://www.shutterstock.com/image-vector/find-download-most-popular-shock-260nw-2308130945.jpg",
+            "https://www.shutterstock.com/image-vector/find-download-most-popular-shock-600w-2308093881.jpg"
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Wiper Blades",
+          "category": "Visibility",
+          "brand": "ClearView",
+          "price": 399,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/1237673404/display_1500/stock-photo-wiper-blade-isolated-on-white-background-detail-of-the-car-d-illustration-1237673404.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/2268833395/display_1500/stock-photo-belarus-minsk-bosch-eco-wiper-blade-on-a-white-background-2268833395.jpg",
+            "https://www.shutterstock.com/image-photo/wiper-blade-shallow-depth-field-260nw-1346654825.jpg"
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Transmission Fluid",
+          "category": "Fluids and Lubricants",
+          "brand": "TransGuard",
+          "price": 649,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/1499950904/display_1500/stock-photo-castrol-gear-oil-automatic-transmission-fluid-dex-iii-on-black-background-1499950904.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/683137828/display_1500/stock-photo-transmission-oil-fill-up-in-a-car-engine-with-yellow-cone-spire-shape-container-683137828.jpg",
+            "https://www.shutterstock.com/image-photo/jakarta-indonesia-january-13-2023-260nw-2249228913.jpg"
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Car Battery",
+          "category": "Electrical System",
+          "brand": "PowerCharge",
+          "price": 8999,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-vector/car-battery-advertisement-poster-3d-260nw-1200616414.jpg",
+            "https://as1.ftcdn.net/v2/jpg/03/37/66/76/1000_F_337667631_ne2qWB8BhuRZWCbduvDrUCCB7cOE9oVn.jpg",
+            "https://www.shutterstock.com/image-illustration/3d-illlustration-generic-car-battery-260nw-2238672855.jpg"
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Radiator",
+          "category": "Cooling System",
+          "brand": "CoolFlow",
+          "price": 3999,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/car-condenser-radiator-on-white-260nw-1688649046.jpg",
+            "https://www.shutterstock.com/image-illustration/car-radiator-3d-rendering-isolated-260nw-743131738.jpg",
+            "https://www.shutterstock.com/image-photo/car-radiator-on-white-background-260nw-346609061.jpg"
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Wheel Rim",
+          "category": "Wheels and Tires",
+          "brand": "AlloyTech",
+          "price": 1099,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/451143601/display_1500/stock-photo-aluminum-wheel-image-d-high-quality-rendering-white-picture-figured-alloy-rim-for-car-best-used-451143601.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/2245532581/display_1500/stock-vector-car-disk-rim-automobile-service-rotation-detail-transportation-aluminum-wheel-set-realistic-vector-2245532581.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/2271806285/display_1500/stock-vector-alloy-wheel-rim-in-isolated-vector-design-2271806285.jpg"
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Car Jack",
+          "category": "Tools and Equipment",
+          "brand": "LiftMaster",
+          "price": 2349,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/1403104601/display_1500/stock-photo-orange-hydraulic-car-jack-lift-the-new-car-for-change-the-tyre-1403104601.jpg",
+            "https://c8.alamy.com/comp/AW6CYN/a-motorist-hydraulic-car-jack-being-used-to-raise-a-car-AW6CYN.jpg",
+            "https://www.shutterstock.com/image-photo/red-hydraulic-floor-jack-isolated-260nw-71389582.jpg"
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Oxygen Sensor",
+          "category": "Exhaust System",
+          "brand": "OxyGuard",
+          "price": 359,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/2136139287/display_1500/stock-photo-the-new-oxygen-sensor-or-lambda-sensor-for-measurement-of-gas-and-oxygen-ratio-isolated-in-a-2136139287.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/1157495911/display_1500/stock-photo-oxygen-sensor-on-new-modern-car-1157495911.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/1879711621/display_1500/stock-photo-the-oxygen-sensor-is-a-new-lambda-sensor-spare-parts-on-the-car-on-a-blue-gradient-background-1879711621.jpg"
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Power Steering Pump",
+          "category": "Steering System",
+          "brand": "HydroBoost",
+          "price": 4599,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/hydraulic-power-steering-pump-on-600w-1682791642.jpg",
+            "https://www.shutterstock.com/image-photo/vane-pump-hydraulic-power-steering-600w-700913170.jpg",
+            "https://www.shutterstock.com/image-photo/hydraulic-power-steering-pump-on-260nw-283279439.jpg"
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Headlight Bulbs",
+          "category": "Lighting",
+          "brand": "LightBright",
+          "price": 699,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/1949539366/display_1500/stock-photo-close-up-of-blue-electric-bulbs-head-light-car-on-black-background-1949539366.jpg",
+            "https://www.shutterstock.com/image-photo/car-repair-service-man-holds-260nw-1854698041.jpg",
+            "https://www.shutterstock.com/image-photo/led-headlight-bulb-replaces-old-260nw-2318339007.jpg"
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Car Wax",
+          "category": "Car Care",
+          "brand": "WaxMaster",
+          "price": 1499,
+          "quantity": 1,
+          "images": [
+            "https://m.media-amazon.com/images/I/71p4qxB77HL.jpg",
+            "https://autobritedirect.co.uk/wp-content/uploads/2020/06/IMG_1592.jpg",
+            "https://m.media-amazon.com/images/I/71p4qxB77HL.jpg"
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Cabin Air Filter",
+          "category": "Interior",
+          "brand": "CleanAir",
+          "price": 899,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/1505738966/display_1500/stock-photo-close-up-air-filter-in-hand-service-concept-in-air-condition-system-of-car-and-inside-car-blur-1505738966.jpg",
+            "https://dealerimages.dealereprocess.com/image/upload/w_2121/2111853.jpg",
+            "https://www.shutterstock.com/image-photo/comparison-dirty-new-cabin-air-260nw-2177529003.jpg"
+          ]
+        },
+        {
+          "id": 21,
+          "name": "Windshield Washer Fluid",
+          "category": "Fluids and Lubricants",
+          "brand": "ClearVision",
+          "price": 199,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/closeup-blue-windshield-washer-fluid-260nw-1805895997.jpg",
+            "https://www.shutterstock.com/image-photo/can-blue-windshield-washer-fluid-260nw-1860547831.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/79374502/display_1500/stock-photo-automobile-maintenance-filling-the-windshield-washer-fluid-on-a-car-79374502.jpg"
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Spare Tire",
+          "category": "Wheels and Tires",
+          "brand": "SpareGuard",
+          "price": 3999,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/man-takes-spare-tire-out-260nw-2169549753.jpg",
+            "https://www.shutterstock.com/image-vector/realistic-car-wheel-pile-isolated-260nw-1583810545.jpg",
+            "https://www.shutterstock.com/image-photo/car-tires-winter-background-260nw-1797180004.jpg"
+          ]
+        },
+        {
+          "id": 23,
+          "name": "Power Steering Hose",
+          "category": "Steering System",
+          "brand": "TieMaster",
+          "price": 378,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/hose-power-steering-on-white-260nw-703026607.jpg",
+            "https://www.shutterstock.com/image-photo/high-pressure-rubber-hose-various-260nw-2173658441.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/1773013316/display_1500/stock-photo-hydraulic-high-pressure-hose-isolated-on-the-white-background-new-spare-parts-1773013316.jpg"
+          ]
+        },
+        {
+          "id": 24,
+          "name": "Steering Gear Box",
+          "category": "Steering System",
+          "brand": "TieMaster",
+          "price": 5499,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/cross-section-car-gearbox-260nw-754841263.jpg",
+            "https://www.shutterstock.com/shutterstock/videos/12307061/thumb/1.jpg?ip=x480",
+            "https://www.shutterstock.com/image-photo/automotive-automatic-transmission-600w-1194193834.jpg"
+          ]
+        },
+        {
+          "id": 25,
+          "name": "Tie Rod Assembly",
+          "category": "Steering System",
+          "brand": "TieMaster",
+          "price": 299,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/four-tie-rod-ends-on-260nw-98731952.jpg",
+            "https://www.shutterstock.com/image-photo/tie-rod-end-steering-control-260nw-374653249.jpg",
+            "https://www.shutterstock.com/image-photo/outer-tie-rod-adjusting-sleeve-260nw-162405113.jpg"
+          ]
+        },
+        {
+          "id": 26,
+          "name": "High-Flow Oil Filter",
+          "category": "Oil Filter",
+          "brand": "AutoTech",
+          "price": 640,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/spinon-oil-filter-li-779-260nw-2273079785.jpg",
+            "https://www.shutterstock.com/image-photo/spinon-oil-filter-li-779-260nw-2273079785.jpg",
+            "https://www.shutterstock.com/image-photo/truck-bus-oil-filter-260nw-1961463874.jpg"
+          ]
+        },
+        {
+          "id": 27,
+          "name": "Strut Assembly",
+          "category": "Suspension System",
+          "brand": "AutoTech",
+          "price": 3934,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/car-suspension-strut-shock-absorber-260nw-1864669798.jpg",
+            "https://www.shutterstock.com/image-illustration/3d-rendering-passenger-car-shock-260nw-1564225162.jpg",
+            "https://www.shutterstock.com/image-photo/spare-parts-car-suspension-mechanic-260nw-2047379969.jpg"
+          ]
+        },
+        {
+          "id": 28,
+          "name": "Brake Caliper",
+          "category": "Braking System",
+          "brand": "AutoTech",
+          "price": 1345,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/close-brake-disc-vehicle-repairautomobile-260nw-1129543037.jpg",
+            "https://www.shutterstock.com/image-photo/yellow-brake-caliper-disc-isolated-260nw-1961287636.jpg",
+            "https://www.shutterstock.com/image-photo/auto-mechanic-installing-two-piston-260nw-2009190176.jpg"
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Control Arm",
+          "category": "Suspension System",
+          "brand": "AutoTech",
+          "price": 249,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/lower-control-arm-isolated-on-260nw-373676443.jpg",
+            "https://www.shutterstock.com/image-photo/new-suspension-lower-control-arm-260nw-2050216475.jpg",
+            "https://www.shutterstock.com/shutterstock/photos/373676464/display_1500/stock-photo-lower-control-arm-isolated-on-white-background-373676464.jpg"
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Performance Air Filter",
+          "category": "Air Filter",
+          "brand": "AirFlow",
+          "price": 794,
+          "quantity": 25,
+          "images": [
+            "https://www.shutterstock.com/image-photo/air-cone-filter-on-white-260nw-126393158.jpg",
+            "https://www.shutterstock.com/image-photo/closeup-sport-engine-air-intakes-260nw-2371120549.jpg",
+            "https://www.shutterstock.com/image-photo/air-filter-turbocharger-racing-car-260nw-1576224361.jpg"
+          ]
+        },
+        {
+          "id": 31,
+          "name": "Performance Air Intake",
+          "category": "Air Filter",
+          "brand": "AirFlow",
+          "price": 499,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/shutterstock/photos/1460538014/display_1500/stock-photo-high-performance-air-filter-on-a-cold-air-intake-1460538014.jpg",
+            "https://www.shutterstock.com/image-photo/close-sport-car-air-filter-260nw-765067540.jpg",
+            "https://www.shutterstock.com/image-photo/car-air-filter-zero-resistance-260nw-652876159.jpg"
+          ]
+        },
+        {
+          "id": 32,
+          "name": "Cabin Air Bag",
+          "category": "Air Filter",
+          "brand": "AirFlow",
+          "price": 899,
+          "quantity": 1,
+          "images": [
+            "https://www.shutterstock.com/image-photo/safety-air-bag-demonstration-260nw-9526603.jpg",
+            "https://static.fibre2fashion.com/ArticleResources/Images/72/7139/Air_Bags_big.jpg",
+            "https://www.heitingandirwin.com/wp-content/uploads/2015/05/17ike-rav4-ng-srs-airbags-940x529.jpg"
+          ]
+        }
+      ]
+}
